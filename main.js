@@ -14,7 +14,7 @@ leftWristX = 0;
 }
 
 function modelLoaded() {
-  console.log('PoseNet Is Initialized!');
+  console.log('¡PoseNet se inicializó!');
 }
 
 
